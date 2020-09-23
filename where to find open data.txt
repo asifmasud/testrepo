@@ -1,0 +1,8 @@
+http://datacatalogs.org/
+
+http://data.un.org/
+https://www.data.gov/
+https://www.europeandataportal.eu/en/
+
+https://www.kaggle.com/datasets
+https://datasetsearch.research.google.com/
